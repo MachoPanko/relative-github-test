@@ -3,5 +3,5 @@
 
 [inner md](./inner/lol.md)
 a
-![atl](./images/image.png)
+
 
